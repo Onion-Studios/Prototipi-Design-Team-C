@@ -4,6 +4,6 @@
 [merge "unityyamlmerge"]
 	keepTemporaries = true
 	keepBackup = false
-	path = D:\\APPLICAZIONI\\2019.2.0f1\\Editor\\Data\\Tools\\UnityYAMLMerge.exe
-	cmd = D:\\APPLICAZIONI\\2019.2.0f1\\Editor\\Data\\Tools\\UnityYAMLMerge.exe merge -p $BASE $REMOTE $LOCAL $MERGED
+	path = 'D:\\APPLICAZIONI\\2019.2.0f1\\Editor\\Data\\Tools\\UnityYAMLMerge.exe'
+	cmd = 'D:\\APPLICAZIONI\\2019.2.0f1\\Editor\\Data\\Tools\\UnityYAMLMerge.exe' merge -p $BASE $REMOTE $LOCAL $MERGED
 	trustExitCode = false
