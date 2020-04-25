@@ -3554,7 +3554,6 @@ GameObject:
   - component: {fileID: 1503064031}
   - component: {fileID: 1503064030}
   - component: {fileID: 1503064029}
-  - component: {fileID: 1503064028}
   m_Layer: 0
   m_Name: Body
   m_TagString: Player
@@ -3576,20 +3575,6 @@ Transform:
   m_Father: {fileID: 173167403}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &1503064028
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1503064026}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1503064029
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4102,7 +4087,6 @@ GameObject:
   - component: {fileID: 1664647258}
   - component: {fileID: 1664647259}
   - component: {fileID: 1664647260}
-  - component: {fileID: 1664647261}
   m_Layer: 0
   m_Name: Body
   m_TagString: Player
@@ -4237,20 +4221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 365623763ad9e504f8d08a2fbfdbdf0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!64 &1664647261
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1664647252}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1772849512
 PrefabInstance:
   m_ObjectHideFlags: 0
